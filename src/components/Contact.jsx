@@ -16,7 +16,6 @@ const Contact = () => {
   });
 
   const [loading, setLoading] = useState(false);
-  const [status, setStatus ] = useState('');
 
   const handleChange = (e) => {
     const { target } = e;
