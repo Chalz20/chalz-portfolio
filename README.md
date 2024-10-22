@@ -1,11 +1,13 @@
-## Charles Porfolio
+# Charles Porfolio
 
 This project is a 3D interactive portfolio built using React and Vite, showcasing my work and skills as a software developer. It leverages modern web technologies such as Three.js to provide a dynamic and visually engaging experience. The portfolio is fully responsive and optimized for both desktop and mobile devices.
 
-# Project Link
+## Project Link
 👉👉👉( https://chalz20.github.io/chalz-portfolio )
 
-# Fearures
+**Note**: Best experience on PC😁 
+
+## Fearures
 
 **3D Model Showcase**: Interactive 3D models that highlight my skills and past projects.
 
@@ -19,7 +21,7 @@ This project is a 3D interactive portfolio built using React and Vite, showcasin
 
 **Contact Section**: Users can easily get in touch via the contact form integrated with the website.
 
-# Technology used
+## Technology used
 
 **React**: JavaScript library for building the user interface.
 
@@ -33,6 +35,6 @@ This project is a 3D interactive portfolio built using React and Vite, showcasin
 
 **GitHub Pages**: Hosting the portfolio for free.
 
-# Known Issues
+## Known Issues
 
 **3D Models Not Displaying on Mobile**: Some 3D models may not load on certain mobile devices, particularly in Chrome. This is being optimized for better performance on resource-constrained devices.
