@@ -19,6 +19,7 @@ import {
   edenconsultweb,
   blogpost,
   student,
+  ThreeDShirt
 } from "../assets";
 
 export const navLinks = [
@@ -206,6 +207,27 @@ const projects = [
     ],
     image: edenconsultweb,
     source_code_link: "https://edenconsult.co.tz",
+  },
+  {
+    name: "3D-Shirt desinger",
+    description:
+      "A web-app that allows users to visually edit their own shirts by adding logos and selecting colors",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "ThreeJS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ThreeDShirt,
+    source_code_link: "https://threed-shirt-site.onrender.com/",
   },
   {
     name: "Blog Post app",

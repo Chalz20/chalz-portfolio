@@ -39,6 +39,7 @@ import tripguide from "./tripguide.png";
 import edenconsultweb from "./edenconsult.png";
 import blogpost from "./blogpost.png";
 import student from "./student.png";
+import ThreeDShirt from "./3d-shirt.png"; 
 
 export {
   logo,
@@ -76,5 +77,6 @@ export {
   tripguide,
   edenconsultweb,
   blogpost,
-  student
+  student,
+  ThreeDShirt
 };
